@@ -1,2 +1,7 @@
 _*
+bin/*.php
+bin/lib
+bin/scr
+bin/res
+bin/vid
 data/

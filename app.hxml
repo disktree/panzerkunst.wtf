@@ -1,0 +1,8 @@
+-js bin/scr/app.js
+-main panzerkunst.App
+-cp src
+-lib om.core
+#-lib heaps
+-dce full
+-debug
+#--no-traces

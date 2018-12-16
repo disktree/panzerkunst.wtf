@@ -1,0 +1,7 @@
+-php bin
+-main panzerkunst.Web
+-cp src
+-lib om.core
+-resource res/index.html@index
+-dce full
+-debug
